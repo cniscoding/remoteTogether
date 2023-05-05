@@ -7,22 +7,22 @@ But that's not all - RemoteTogether is also about bringing the community togethe
 
 ## ScreenShots
 Landing/Index Page
-![Landing/Index Page]()
+![Landing/Index Page](https://github.com/cniscoding/remoteTogether/blob/update/lintProject/frontend/src/docs/Landing.png)
 
 Finding a location #1
-![Finding a location #1]()
+![Finding a location #1](https://github.com/cniscoding/remoteTogether/blob/update/lintProject/frontend/src/docs/findaLocation1.png)
 
 Finding a location #2
-![Finding a location #2]()
+![Finding a location #2](https://github.com/cniscoding/remoteTogether/blob/update/lintProject/frontend/src/docs/findaLocaiton2.png)
 
 Favorites
-![Favorites]()
+![Favorites](https://github.com/cniscoding/remoteTogether/blob/update/lintProject/frontend/src/docs/Favorite.png)
 
 Member Chat
-![Member Chat]()
+![Member Chat](https://github.com/cniscoding/remoteTogether/blob/update/lintProject/frontend/src/docs/Chat.png)
 
 Member Login
-![Member Login]()
+![Member Login](https://github.com/cniscoding/remoteTogether/blob/update/lintProject/frontend/src/docs/login.png)
 
 ## Setup
 
